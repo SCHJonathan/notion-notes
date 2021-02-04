@@ -14,7 +14,7 @@ Sorry if you find any mistakes or typos from my writings and feel free to open a
 
 ### System Design
 
-- [ElasticSearch. An intro](notes/es_an_into/es_an_intro.md) [English version incoming]
+- ElasticSearch. An intro [[中文]](notes/es_an_intro_cn/es_an_intro_cn.md) [English Version Incoming]
   - from book [Elasticsearch: The Definitive Guide](https://www.oreilly.com/library/view/elasticsearch-the-definitive/9781449358532/) 
   - 10/10 recommended. Detailed and straightforward. One of the best books I have read in 2020.
   
